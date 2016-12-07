@@ -32,12 +32,5 @@
         android:layout_height="64dp"
         android:id="@+id/tab2" />
 
-    <Button
-        android:text="RealView"
 
-        android:layout_marginTop="8dp"
-        android:layout_width="match_parent"
-        android:background="@color/colorPrimary"
-        android:layout_height="64dp"
-        android:id="@+id/tab3" />
 </LinearLayout>
